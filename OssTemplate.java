@@ -51,4 +51,4 @@ public class OssTemplate {
         System.out.println("上传文件访问路径:"+url);
         return url;
     }
-}
+}some content 
